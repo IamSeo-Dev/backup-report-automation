@@ -1,6 +1,6 @@
 # backup-report-automation
 
-Author : Yooseok Seo\n
+Author : Yooseok Seo
 Project Start Date : 12/10/2019
 
 Project Description: 
